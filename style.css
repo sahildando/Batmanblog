@@ -1,0 +1,13 @@
+ 
+
+
+
+.hero{
+   width: 100%;
+   height: 100vh;
+   background-image: url(0f61c29770626f45cddb9bac0688f610.jpg);
+   background-size:cover;
+   background-position:center;
+   position: relative;
+   overflow: hidden;
+}
